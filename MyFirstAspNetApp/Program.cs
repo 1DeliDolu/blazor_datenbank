@@ -1,4 +1,4 @@
-using Nordwind.Components;
+using MyFirstAspNetApp.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 

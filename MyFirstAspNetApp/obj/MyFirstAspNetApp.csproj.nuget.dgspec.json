@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\blazor_datenbank\\Nordwind\\Nordwind.csproj": {}
+    "D:\\blazor_datenbank\\MyFirstAspNetApp\\MyFirstAspNetApp.csproj": {}
   },
   "projects": {
-    "D:\\blazor_datenbank\\Nordwind\\Nordwind.csproj": {
+    "D:\\blazor_datenbank\\MyFirstAspNetApp\\MyFirstAspNetApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\blazor_datenbank\\Nordwind\\Nordwind.csproj",
-        "projectName": "Nordwind",
-        "projectPath": "D:\\blazor_datenbank\\Nordwind\\Nordwind.csproj",
+        "projectUniqueName": "D:\\blazor_datenbank\\MyFirstAspNetApp\\MyFirstAspNetApp.csproj",
+        "projectName": "MyFirstAspNetApp",
+        "projectPath": "D:\\blazor_datenbank\\MyFirstAspNetApp\\MyFirstAspNetApp.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "D:\\blazor_datenbank\\Nordwind\\obj\\",
+        "outputPath": "D:\\blazor_datenbank\\MyFirstAspNetApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",
