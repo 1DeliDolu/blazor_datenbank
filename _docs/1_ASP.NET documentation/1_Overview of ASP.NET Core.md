@@ -1,8 +1,5 @@
 ## 🚀 ASP.NET Core’a Genel Bakış
 
-> 🔤 **Kaynak:** Microsoft Docs — *Overview of ASP.NET Core*
-> 🕮 **Çeviri:** Türkçe açıklamalı sürüm
-> 💡 **Konu:** Blazor ve ASP.NET Core Giriş
 
 ---
 
@@ -126,4 +123,3 @@ Ardından Visual Studio veya VS Code ile geliştirip çalıştırabilirsin.
 
 ---
 
-İstersen bir sonraki adımda bu genel yapının üzerine **Blazor WebAssembly** veya **Blazor Server** örneğiyle devam edelim mi?
